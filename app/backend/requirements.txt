@@ -178,7 +178,7 @@ microsoft-kiota-serialization-multipart==1.11.7
     # via msgraph-sdk
 microsoft-kiota-serialization-text==1.11.7
     # via msgraph-sdk
-msal==1.37.0
+msal==1.38.0
     # via
     #   -r requirements.in
     #   azure-identity
